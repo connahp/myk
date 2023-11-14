@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/Epgmytv, http://lichphatsong.xyz/schedule/epg.xml" refresh="3600" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/Epgmytv,http://lichphatsong.xyz/schedule/epg.xml" refresh="3600" tvg-shift=0 m3uautoload=1
 
 #==============================❤KênhK+plus❤===============================================================================
 #EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/cRTfS8i.png",K+Cine
