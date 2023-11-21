@@ -27,7 +27,7 @@ https://hbolive.kplus.vn/__token__exp%3D1700558761~acl%3D%2Fbpk-tv%2Fprod_kplus_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0(WindowsNT6.3;Win64;x64) AppleWebKit/537.36(KHTML,likeGecko) Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.115 ReactNativeVideo/3.4.4 Dalvik/2.1.0 ExoPlayerLib/2.13.38 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2I0zj82kjhMVM65ns2lK8g","kid":"eO1rUkiUYtwLxcmAYs01uw"},{"kty":"oct","k":"NADQ76rYxb91+xaItydHPA","kid":"N5gnCfmUYtwLxcmAYs01uw"},{"kty":"oct","k":"abVgot6OnU1p4zsVS7bwTA","kid":"f9wnCfmUYtwLxcmAYs01uw"}],"type":"temporary"}
-https://cdnetvnpt.kplus.vn/__token__exp%3D1700558791~acl%3D%2Fbpk-tv%2Fprod_kplus_lifehd%2Fdefault%2F%2A~id%3D83545b3d-94be-4bcc-80dc-d5d908daae9e~hmac%3D7e145b7859eaa20e293d540ba8d0ff84328aacf78d5de0d037895eed5c71d1d0/bpk-tv/prod_kplus_lifehd/default/index.mpd
+https://hbolive.kplus.vn/__token__exp%3D1700558791~acl%3D%2Fbpk-tv%2Fprod_kplus_lifehd%2Fdefault%2F%2A~id%3D83545b3d-94be-4bcc-80dc-d5d908daae9e~hmac%3D7e145b7859eaa20e293d540ba8d0ff84328aacf78d5de0d037895eed5c71d1d0/bpk-tv/prod_kplus_lifehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🇻🇳|K+Plus" tvg-logo="https://i.imgur.com/wDmEVBU.png",K+Kids
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod"
